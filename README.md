@@ -39,7 +39,7 @@ The purpose here is to provide a script to help people to configure the existing
 
 ### Clone this repo, execute autodevops.sh
 ```
-git clone https://github.com/cdelaitre/gitlab-rancher-kubernetes.git
+git clone https://github.com/snake4life/gitlab-rancher-kubernetes.git
 cd gitlab-rancher-kubernetes
 ./autodevops.sh
 ```
